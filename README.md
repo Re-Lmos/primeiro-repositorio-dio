@@ -1,5 +1,5 @@
-# Desafio de Projeto sobre Git/GitHub da DIO
+# Desafio de Projeto sobre Git/GitHub da DIO 👩‍💼
 
-#### Desafio de Criação do Primeiro Repositório
+### Criando meu Primeiro Repositório
 
 - Comandos GIT
