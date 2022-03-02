@@ -1,18 +1,44 @@
+Modificado (modified);
+Preparado (staged/index)
+Consolidado (comitted);
+
 git config --global user.name 'Renata'
 git config --global user.email 'email'
  //configurar 
 
 git init
- //
+ //criar novo reposit贸rio
 
 git status
  //vai mostrar status 
 
+<<<<<<< HEAD
 git add . 
  //envia commit
+=======
+git add .
+ // adiciona todos arquivos/diret贸rios
+>>>>>>> 8ff9e0c692b6266fb8d380d1c2a6fe78fe4e645d
 
 git clone 'chave ssh'
- //vai clonar o reposit髍io remoto para o local do Git
+ //vai clonar o reposit贸rio remoto para o local do Git
 
+<<<<<<< HEAD
 git push origin main
   //manda para o reposit髍io remoto
+=======
+git commit meuarquivo.txt -m 'mensagem'
+ //um arquivo espec铆fico
+ 
+ git rm meuarquivo.txt
+  //deleta um arquivo
+  
+ git rm -r diretorio
+  //deletar um diret贸rio
+  
+  git remote
+   //exibe os reposit贸rios remotos
+   
+   git remote add origin git@github.com:renata/lemos-git.git
+    //Vincular reposit贸rio local com um reposit贸rio remoto
+>>>>>>> 8ff9e0c692b6266fb8d380d1c2a6fe78fe4e645d
