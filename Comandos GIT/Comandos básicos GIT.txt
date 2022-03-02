@@ -1,3 +1,7 @@
+Modificado (modified);
+Preparado (staged/index)
+Consolidado (comitted);
+
 git config --global user.name 'Renata'
 git config --global user.email 'email'
  //configurar 
