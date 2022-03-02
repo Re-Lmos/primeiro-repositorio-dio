@@ -1,0 +1,15 @@
+ssh-keygen -t ed25519 -C 'email github'
+ //vai criar uma chave depois de digitar a senha
+
+cd /c/Users/User/.ssh/
+ //para navegar dentro do diretório que criou a senha
+
+cat id_ed25519.pub
+ //vai mostrar a chave ssh public
+
+eval $(ssh-agent -s)
+ //número da chave
+
+ssh-add id_ed25519
+ //adiciona a chave privada
+

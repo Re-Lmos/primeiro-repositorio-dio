@@ -1,0 +1,16 @@
+git config --global user.name 'Renata'
+git config --global user.email 'email'
+ //configurar 
+
+git init
+ //
+
+git status
+ //vai mostrar status 
+
+git add. or git add -A 
+ //commita
+
+git clone 'chave ssh'
+ //vai clonar o repositório remoto para o local do Git
+

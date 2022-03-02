@@ -1,0 +1,11 @@
+cd 
+ // change direct, navega em um diretório específico no sistema
+
+ls 
+ // lista arquivos dentro da pasta
+
+pwd
+ //mostra onde está localizado
+
+mkdir 
+ // cria uma pasta 
