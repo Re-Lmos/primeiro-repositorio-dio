@@ -8,9 +8,9 @@ git init
 git status
  //vai mostrar status 
 
-git add. or git add -A 
- //commita
+git add . or git add -A 
+ //commit
 
 git clone 'chave ssh'
- //vai clonar o repositório remoto para o local do Git
+ //vai clonar o repositÃ³rio remoto para o local do Git
 
